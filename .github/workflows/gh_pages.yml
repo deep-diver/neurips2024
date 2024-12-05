@@ -3,14 +3,9 @@
 name: GitHub Pages
 
 on:
-  workflow_run:
-    branches: [main]    # Only trigger if the 'build' workflow runs on the 'main' branch
-    types: 
-      - completed   
-  workflow_dispatch:
-  # push:
-  #   branches:
-  #     - main
+  push:
+    branches:
+    - main
 
 jobs:
   build-deploy:
