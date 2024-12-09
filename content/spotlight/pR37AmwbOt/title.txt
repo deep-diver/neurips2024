@@ -1,0 +1,1 @@
+Leveraging Catastrophic Forgetting to Develop Safe Diffusion Models against Malicious Finetuning

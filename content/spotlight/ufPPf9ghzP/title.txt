@@ -1,0 +1,1 @@
+A Neural Network Approach for Efficiently Answering Most Probable Explanation Queries in Probabilistic Models

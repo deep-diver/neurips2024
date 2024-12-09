@@ -1,0 +1,1 @@
+Resolving Discrepancies in Compute-Optimal Scaling of Language Models

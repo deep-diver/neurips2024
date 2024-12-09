@@ -1,0 +1,1 @@
+ResAD: A Simple Framework for Class Generalizable Anomaly Detection

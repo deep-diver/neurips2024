@@ -1,0 +1,1 @@
+Second-order forward-mode optimization of recurrent neural networks for neuroscience

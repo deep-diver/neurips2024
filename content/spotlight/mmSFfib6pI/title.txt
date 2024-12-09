@@ -1,0 +1,1 @@
+Validating Climate Models with Spherical Convolutional Wasserstein Distance

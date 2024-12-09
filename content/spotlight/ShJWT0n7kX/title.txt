@@ -1,0 +1,1 @@
+Doob's Lagrangian: A Sample-Efficient Variational Approach to Transition Path Sampling

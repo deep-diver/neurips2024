@@ -1,0 +1,1 @@
+LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS

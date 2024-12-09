@@ -1,0 +1,1 @@
+Energy-Guided Continuous Entropic Barycenter Estimation for General Costs

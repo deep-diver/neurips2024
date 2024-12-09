@@ -1,0 +1,1 @@
+A generalized neural tangent kernel for surrogate gradient learning

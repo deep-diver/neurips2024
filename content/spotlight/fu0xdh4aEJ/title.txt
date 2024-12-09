@@ -1,0 +1,1 @@
+Bigger, Regularized, Optimistic: scaling for compute and sample efficient continuous control

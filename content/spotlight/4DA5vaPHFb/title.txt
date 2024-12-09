@@ -1,0 +1,1 @@
+Expectile Regularization for Fast and Accurate Training of Neural Optimal Transport

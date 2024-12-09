@@ -1,0 +1,1 @@
+BPQP: A Differentiable Convex Optimization Framework for Efficient End-to-End Learning

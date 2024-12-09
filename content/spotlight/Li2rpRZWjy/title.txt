@@ -1,0 +1,1 @@
+Rule Extrapolation in Language Modeling: A Study of Compositional Generalization on OOD Prompts
