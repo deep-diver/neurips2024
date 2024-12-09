@@ -1,0 +1,1 @@
+Weisfeiler and Leman Go Loopy: A New Hierarchy for Graph Representational Learning

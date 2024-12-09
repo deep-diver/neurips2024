@@ -1,0 +1,1 @@
+MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making
