@@ -1,0 +1,1 @@
+Small coresets via negative dependence: DPPs, linear statistics, and concentration

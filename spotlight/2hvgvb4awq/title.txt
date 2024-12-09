@@ -1,0 +1,1 @@
+Differentiable Task Graph Learning: Procedural Activity Representation and Online Mistake Detection from Egocentric Videos

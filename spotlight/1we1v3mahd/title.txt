@@ -1,0 +1,1 @@
+MotionBooth: Motion-Aware Customized Text-to-Video Generation

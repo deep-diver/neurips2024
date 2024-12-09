@@ -1,0 +1,1 @@
+Adaptive Image Quality Assessment via Teaching Large Multimodal Model to Compare

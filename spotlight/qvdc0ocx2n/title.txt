@@ -1,0 +1,1 @@
+CLIPLoss and Norm-Based Data Selection Methods for Multimodal Contrastive Learning

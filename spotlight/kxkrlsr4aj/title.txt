@@ -1,0 +1,1 @@
+Input-to-State Stable Coupled Oscillator Networks for Closed-form Model-based Control in Latent Space

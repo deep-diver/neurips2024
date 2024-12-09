@@ -1,0 +1,1 @@
+Flexible task abstractions emerge in linear networks with fast and bounded units

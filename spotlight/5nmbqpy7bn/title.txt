@@ -1,0 +1,1 @@
+TOPA: Extending Large Language Models for Video Understanding via Text-Only Pre-Alignment

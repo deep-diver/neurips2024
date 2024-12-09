@@ -1,0 +1,1 @@
+Neural Assets: 3D-Aware Multi-Object Scene Synthesis with Image Diffusion Models

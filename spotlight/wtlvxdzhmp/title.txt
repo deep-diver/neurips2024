@@ -1,0 +1,1 @@
+Statistical Estimation in the Spiked Tensor Model via the Quantum Approximate Optimization Algorithm

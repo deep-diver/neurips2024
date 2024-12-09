@@ -1,0 +1,1 @@
+Mirror and Preconditioned Gradient Descent in Wasserstein Space

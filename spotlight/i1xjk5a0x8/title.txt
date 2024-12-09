@@ -1,0 +1,1 @@
+PCP-MAE: Learning to Predict Centers for Point Masked Autoencoders

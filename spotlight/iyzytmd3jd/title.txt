@@ -1,0 +1,1 @@
+CooHOI: Learning Cooperative Human-Object Interaction with Manipulated Object Dynamics

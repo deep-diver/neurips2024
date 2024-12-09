@@ -1,0 +1,1 @@
+Diffusion Model with Cross Attention as an Inductive Bias for Disentanglement

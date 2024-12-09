@@ -1,0 +1,1 @@
+Online Convex Optimisation: The Optimal Switching Regret for all Segmentations Simultaneously
