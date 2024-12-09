@@ -1,0 +1,1 @@
+VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time

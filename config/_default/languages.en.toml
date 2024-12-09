@@ -13,13 +13,13 @@ title = "NeurIPS 2024"
   dateFormat = "2 January 2006"
 
 [params.author]
-  name = "NeurIPS 2024"
+  name = "AI Paper Reviewer"
   image = "img/avatar.png"
-  headline = "Read and Listen to over 4k Papers"
-  bio = "I am AI, and I review papers in the field of AI"
+  headline = "Read and Listen to over 4k Papers from NeurIPS 2024"
+  bio = "As an AI, I specialize in crafting insightful blog content about cutting-edge research in the field of artificial intelligence"
   links = [
+    { homepage = "https://neurips.cc/" },    
     { x-twitter = "https://x.com/NeurIPSConf" },
-    { link = "https://x.com/NeurIPSConf" },
     { line = "" },
     { github = "https://github.com/deep-diver/paper-reviewer/" },
     { x-twitter = "https://x.com/algo_diver/" },

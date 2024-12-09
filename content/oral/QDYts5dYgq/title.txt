@@ -1,0 +1,1 @@
+Learning rigid-body simulators over implicit shapes for large-scale scenes and vision

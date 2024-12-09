@@ -23,42 +23,46 @@
 # LLM, Diffusion, Multimodal, RL, Graph, 3D, Alt Architecture
 
 [[main]]
-  name = "LLM"
-  pageRef = "llm"
-  weight = 10
-
-
-[[main]]
-  name = "Diffusion"
-  pageRef = "diffusion"
-  weight = 20
+  name = "Oral"
+  pageRef = "oral"
+  weight = 11
 
 [[main]]
-  name = "Multimodal"
-  pageRef = "multimodal"
-  weight = 20
+  name = "Spotlight"
+  pageRef = "spotlight"
+  weight = 22
 
-[[main]]
-  name = "RL"
-  pageRef = "rl"
-  weight = 10
+# [[main]]
+#   name = "LLM"
+#   pageRef = "llm"
+#   weight = 33
 
-[[main]]
-  name = "Graph"
-  pageRef = "graph"
-  weight = 20
+# [[main]]
+#   name = "Diffusion"
+#   pageRef = "diffusion"
+#   weight = 44
+
+# [[main]]
+#   name = "Multimodal"
+#   pageRef = "multimodal"
+#   weight = 55
+
+# [[main]]
+#   name = "RL"
+#   pageRef = "rl"
+#   weight = 66
 
 
-[[main]]
-  name = "3D"
-  pageRef = "3d"
-  weight = 20 
+# [[main]]
+#   name = "Others"
+#   pageRef = "others"
+#   weight = 77
 
 
 [[main]]
   name = "Tags"
   pageRef = "tags"
-  weight = 20
+  weight = 88
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["paper-reviews"]
+mainSections = ["oral", "spotlight", "llm", "others"]
 # robots = ""
 
 [header]
@@ -31,7 +31,7 @@ mainSections = ["paper-reviews"]
   showRecent = true
   showRecentItems = 9
   showMoreLink = true
-  showMoreLinkDest = "/ai-paper-reviewer/paper-reviews/"
+  showMoreLinkDest = "/neurips2024/oral/"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
