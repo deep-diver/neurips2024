@@ -71,7 +71,7 @@ sharing:
   telegram: "Share via Telegram"
 
 shortcode:
-  recent_articles: "Oral Presentations"
+  recent_articles: "Papers on NeurIPS 2024"
 
 recent:
   show_more: "Show More"
