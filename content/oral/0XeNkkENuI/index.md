@@ -16,12 +16,18 @@ draft: false
  
 {{< /keywordList >}}
 
-{{< button href="https://openreview.net/forum?id=0XeNkkENuI" target="_self" >}}
+{{< button href="https://openreview.net/forum?id=0XeNkkENuI" target="_blank" >}}
 ↗ OpenReview
 {{< /button >}}
-{{< button href="https://neurips.cc/virtual/2024/poster/96925" target="_self" >}}
-↗ NeurIPS Homepage
+{{< button href="https://neurips.cc/virtual/2024/poster/96925" target="_blank" >}}
+↗ NeurIPS Proc.
+{{< /button >}}{{< button href="https://huggingface.co/papers/2405.15682" target="_blank" >}}
+↗ Hugging Face
 {{< /button >}}
+{{< button href="https://huggingface.co/spaces/huggingface/paper-central?tab=tab-chat-with-paper&paper_id=0XeNkkENuI&paper_from=neurips" target="_blank" >}}
+↗ Chat
+{{< /button >}}
+
 
 
 <audio controls>
