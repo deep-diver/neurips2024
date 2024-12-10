@@ -15,49 +15,73 @@
   pageRef = "about"
   weight = 10
 
-# [[main]]
-#   name = "Paper Reviews"
-#   pageRef = "paper-reviews"
-#   weight = 20
-
-# LLM, Diffusion, Multimodal, RL, Graph, 3D, Alt Architecture
-
+## Orals
 [[main]]
   name = "Oral"
   pageRef = "oral"
   weight = 11
 
 [[main]]
+  name = "(o) AI Applications"
+  parent = "Oral"
+  pageRef = "oral-ai-applications"
+
+[[main]]
+  name = "(o) AI Theory"
+  parent = "Oral"
+  pageRef = "oral-ai-theory"
+
+[[main]]
+  name = "(o) Large Language Models"
+  parent = "Oral"
+  pageRef = "oral-large-language-models"
+
+[[main]]
+  name = "(o) Reinforcement Learning"
+  parent = "Oral"
+  pageRef = "oral-reinforcement-learning"
+
+[[main]]
+  name = "(o) Image Generation"
+  parent = "Oral"
+  pageRef = "oral-image-generation"
+
+[[main]]
+  name = "(o) Others"
+  parent = "Oral"
+  pageRef = "oral-others"
+
+
+## Spotlight
+[[main]]
   name = "Spotlight"
   pageRef = "spotlight"
   weight = 22
 
-# [[main]]
-#   name = "LLM"
-#   pageRef = "llm"
-#   weight = 33
+[[main]]
+  name = "(s) AI Theory"
+  parent = "Spotlight"
+  pageRef = "spotlight-ai-theory"
 
-# [[main]]
-#   name = "Diffusion"
-#   pageRef = "diffusion"
-#   weight = 44
+[[main]]
+  name = "(s) Large Language Models"
+  parent = "Spotlight"
+  pageRef = "spotlight-large-language-models"
 
-# [[main]]
-#   name = "Multimodal"
-#   pageRef = "multimodal"
-#   weight = 55
+[[main]]
+  name = "(s) Reinforcement Learning"
+  parent = "Spotlight"
+  pageRef = "spotlight-reinforcement-learning"
 
-# [[main]]
-#   name = "RL"
-#   pageRef = "rl"
-#   weight = 66
+[[main]]
+  name = "(s) Optimization"
+  parent = "Spotlight"
+  pageRef = "spotlight-optimization"
 
-
-# [[main]]
-#   name = "Others"
-#   pageRef = "others"
-#   weight = 77
-
+[[main]]
+  name = "(s) Others"
+  parent = "Spotlight"
+  pageRef = "spotlight-others"
 
 [[main]]
   name = "Tags"

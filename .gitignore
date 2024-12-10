@@ -4,3 +4,7 @@ public
 .DS_Store
 content/.DS_Store
 .hugo_build.lock
+del_categories.txt
+update_affiliation_map.json
+oral_top_categories.txt
+categorize.py

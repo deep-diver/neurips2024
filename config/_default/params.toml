@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["oral", "spotlight", "llm", "others"]
+mainSections = ["oral-ai-applications", "oral-ai-theory", "spotlight-large-language-models", "spotlight-reinforcement-learning", "spotlight-optimization", "spotlight-others"]
 # robots = ""
 
 [header]
@@ -30,8 +30,8 @@ mainSections = ["oral", "spotlight", "llm", "others"]
   homepageImage = "img/cover.png" # used in: hero, and card
   showRecent = true
   showRecentItems = 9
-  showMoreLink = true
-  showMoreLinkDest = "/neurips2024/oral/"
+  showMoreLink = false
+  showMoreLinkDest = "/neurips2024/oral-ai-theory"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
