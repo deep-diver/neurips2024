@@ -1,0 +1,1 @@
+Monomial Matrix Group Equivariant Neural Functional Networks

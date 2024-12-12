@@ -1,0 +1,1 @@
+InstructG2I: Synthesizing Images from Multimodal Attributed Graphs

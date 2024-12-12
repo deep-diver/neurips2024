@@ -1,0 +1,1 @@
+Neural P$^3$M: A Long-Range Interaction Modeling Enhancer for Geometric GNNs

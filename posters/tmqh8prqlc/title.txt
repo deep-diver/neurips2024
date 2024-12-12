@@ -1,0 +1,1 @@
+Adaptive Variance Reduction for Stochastic Optimization under Weaker Assumptions

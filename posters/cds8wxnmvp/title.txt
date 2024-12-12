@@ -1,0 +1,1 @@
+Convolutions and More as Einsum: A Tensor Network Perspective with Advances for Second-Order Methods

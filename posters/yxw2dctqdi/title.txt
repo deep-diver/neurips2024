@@ -1,0 +1,1 @@
+Controlled maximal variability along with reliable performance in recurrent neural networks

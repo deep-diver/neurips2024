@@ -1,0 +1,1 @@
+Integrating Deep Metric Learning with Coreset for Active Learning in 3D Segmentation

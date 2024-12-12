@@ -1,0 +1,1 @@
+Conditional Generative Models are Sufficient to Sample from Any Causal  Effect Estimand

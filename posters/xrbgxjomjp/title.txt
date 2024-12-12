@@ -1,0 +1,1 @@
+Inverse Factorized Soft Q-Learning for Cooperative Multi-agent Imitation Learning

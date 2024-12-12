@@ -1,0 +1,1 @@
+Exploring Token Pruning in Vision State Space Models

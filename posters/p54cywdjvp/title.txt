@@ -1,0 +1,1 @@
+A Globally Optimal Portfolio for m-Sparse Sharpe Ratio Maximization

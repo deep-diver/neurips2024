@@ -1,0 +1,1 @@
+Conditional Outcome Equivalence: A Quantile Alternative to CATE

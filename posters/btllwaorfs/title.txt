@@ -1,0 +1,1 @@
+A Consistency-Aware Spot-Guided Transformer for Versatile and Hierarchical Point Cloud Registration

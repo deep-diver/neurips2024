@@ -1,0 +1,1 @@
+G2D: From Global to Dense Radiography Representation Learning via Vision-Language Pre-training

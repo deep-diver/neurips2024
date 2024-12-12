@@ -1,0 +1,1 @@
+Segment, Shuffle, and Stitch: A Simple Layer for Improving Time-Series Representations

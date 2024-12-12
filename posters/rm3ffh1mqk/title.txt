@@ -1,0 +1,1 @@
+Semidefinite Relaxations of the Gromov-Wasserstein Distance

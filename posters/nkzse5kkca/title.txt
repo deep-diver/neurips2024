@@ -1,0 +1,1 @@
+Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning

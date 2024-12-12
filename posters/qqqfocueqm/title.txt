@@ -1,0 +1,1 @@
+Conjugated Semantic Pool Improves OOD Detection with Pre-trained Vision-Language Models

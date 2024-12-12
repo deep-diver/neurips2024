@@ -1,0 +1,1 @@
+Learning Optimal Lattice Vector Quantizers for End-to-end Neural Image Compression

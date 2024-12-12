@@ -1,0 +1,1 @@
+Advancing Training Efficiency of Deep Spiking Neural Networks through Rate-based Backpropagation

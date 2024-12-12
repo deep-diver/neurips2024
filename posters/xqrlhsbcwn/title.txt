@@ -1,0 +1,1 @@
+Approximated Orthogonal Projection Unit: Stabilizing Regression Network Training Using Natural Gradient

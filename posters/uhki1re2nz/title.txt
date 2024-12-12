@@ -1,0 +1,1 @@
+Parameter Symmetry and Noise Equilibrium of Stochastic Gradient Descent

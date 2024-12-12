@@ -1,0 +1,1 @@
+Universal Physics Transformers: A Framework For Efficiently Scaling Neural Operators
