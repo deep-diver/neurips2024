@@ -84,6 +84,11 @@
   pageRef = "spotlight-others"
 
 [[main]]
+  name = "Posters"
+  pageRef = "posters"
+  weight = 23
+
+[[main]]
   name = "Tags"
   pageRef = "tags"
   weight = 88

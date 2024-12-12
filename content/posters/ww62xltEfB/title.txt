@@ -1,0 +1,1 @@
+A provable control of sensitivity of neural networks through a direct parameterization of the overall bi-Lipschitzness

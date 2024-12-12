@@ -1,0 +1,1 @@
+3D Equivariant Pose Regression via Direct Wigner-D Harmonics Prediction

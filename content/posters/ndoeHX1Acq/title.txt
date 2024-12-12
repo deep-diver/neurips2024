@@ -1,0 +1,1 @@
+One for All: Multi-Domain Joint Training for Point Cloud Based 3D Object Detection

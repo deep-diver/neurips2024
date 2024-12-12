@@ -1,0 +1,1 @@
+A Walsh Hadamard Derived Linear Vector Symbolic Architecture

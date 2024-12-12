@@ -1,0 +1,1 @@
+Provably Efficient Reinforcement Learning with Multinomial Logit Function Approximation

@@ -1,0 +1,1 @@
+Activating Self-Attention for Multi-Scene Absolute Pose Regression

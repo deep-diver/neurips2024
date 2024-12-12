@@ -1,0 +1,1 @@
+Simplified and Generalized Masked Diffusion for Discrete Data

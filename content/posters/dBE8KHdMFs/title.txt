@@ -1,0 +1,1 @@
+ControlSynth Neural ODEs: Modeling Dynamical Systems with Guaranteed Convergence

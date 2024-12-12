@@ -1,0 +1,1 @@
+An exactly solvable model for emergence and scaling laws in the multitask sparse parity problem

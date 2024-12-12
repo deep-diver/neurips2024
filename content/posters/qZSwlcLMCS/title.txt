@@ -1,0 +1,1 @@
+Kaleido Diffusion: Improving Conditional Diffusion Models with Autoregressive Latent Modeling

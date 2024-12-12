@@ -1,0 +1,1 @@
+Representation Noising: A Defence Mechanism Against Harmful Finetuning

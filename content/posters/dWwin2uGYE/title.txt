@@ -1,0 +1,1 @@
+Breaking the curse of dimensionality in structured density estimation

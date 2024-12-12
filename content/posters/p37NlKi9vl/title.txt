@@ -1,0 +1,1 @@
+Exact, Tractable Gauss-Newton Optimization in Deep Reversible Architectures Reveal Poor Generalization

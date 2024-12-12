@@ -1,0 +1,1 @@
+Average gradient outer product as a mechanism for deep neural collapse

@@ -1,0 +1,1 @@
+Prediction with Action: Visual Policy Learning via Joint Denoising Process

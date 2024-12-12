@@ -1,0 +1,1 @@
+Compositional 3D-aware Video Generation with LLM Director

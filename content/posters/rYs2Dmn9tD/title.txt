@@ -1,0 +1,1 @@
+Trace is the Next AutoDiff: Generative Optimization with Rich Feedback, Execution Traces, and LLMs

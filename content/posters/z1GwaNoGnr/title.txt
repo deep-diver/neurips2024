@@ -1,0 +1,1 @@
+XMask3D: Cross-modal Mask Reasoning for Open Vocabulary 3D Semantic Segmentation

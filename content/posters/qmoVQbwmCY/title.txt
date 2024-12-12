@@ -1,0 +1,1 @@
+Identifiable Object-Centric Representation Learning via Probabilistic Slot Attention

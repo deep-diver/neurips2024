@@ -1,0 +1,1 @@
+On the Impacts of the Random Initialization in the Neural Tangent Kernel Theory

@@ -1,0 +1,1 @@
+Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning?

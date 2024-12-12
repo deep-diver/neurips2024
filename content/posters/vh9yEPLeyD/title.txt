@@ -1,0 +1,1 @@
+Can We Leave Deepfake Data Behind in Training Deepfake Detector?

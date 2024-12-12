@@ -1,0 +1,1 @@
+Take A Shortcut Back: Mitigating the Gradient Vanishing for Training Spiking Neural Networks

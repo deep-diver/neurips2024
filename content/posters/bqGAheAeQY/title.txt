@@ -1,0 +1,1 @@
+Fast Encoder-Based 3D from Casual Videos via Point Track Processing

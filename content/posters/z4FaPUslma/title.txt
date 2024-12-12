@@ -1,0 +1,1 @@
+Guiding Neural Collapse: Optimising Towards the Nearest Simplex Equiangular Tight Frame
