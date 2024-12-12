@@ -1,0 +1,1 @@
+PaDeLLM-NER: Parallel Decoding in Large Language Models for Named Entity Recognition

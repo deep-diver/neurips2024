@@ -1,0 +1,1 @@
+MoTE: Reconciling Generalization with Specialization for Visual-Language to Video Knowledge Transfer
