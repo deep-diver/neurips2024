@@ -1,0 +1,1 @@
+Assembly Fuzzy Representation on Hypergraph for Open-Set 3D Object Retrieval

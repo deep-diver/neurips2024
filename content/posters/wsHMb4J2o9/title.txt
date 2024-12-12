@@ -1,0 +1,1 @@
+The Feature Speed Formula: a flexible approach to scale hyper-parameters of deep neural networks

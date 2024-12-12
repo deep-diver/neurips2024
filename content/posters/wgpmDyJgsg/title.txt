@@ -1,0 +1,1 @@
+Sparse-view Pose Estimation and Reconstruction via Analysis by Generative Synthesis
