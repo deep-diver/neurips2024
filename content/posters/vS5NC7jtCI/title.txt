@@ -1,0 +1,1 @@
+AdaNeg: Adaptive Negative Proxy Guided OOD Detection with Vision-Language Models

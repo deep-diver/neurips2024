@@ -1,0 +1,1 @@
+$\epsilon$-Softmax: Approximating One-Hot Vectors for Mitigating Label Noise
