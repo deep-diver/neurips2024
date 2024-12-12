@@ -1,0 +1,1 @@
+Pard: Permutation-Invariant Autoregressive Diffusion for Graph Generation

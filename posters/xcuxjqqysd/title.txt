@@ -1,0 +1,1 @@
+Med-Real2Sim: Non-Invasive Medical Digital Twins using Physics-Informed Self-Supervised Learning

@@ -1,0 +1,1 @@
+GaussianMarker: Uncertainty-Aware Copyright Protection of 3D Gaussian Splatting

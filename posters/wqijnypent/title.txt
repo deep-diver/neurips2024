@@ -1,0 +1,1 @@
+Batched Energy-Entropy acquisition for Bayesian Optimization
