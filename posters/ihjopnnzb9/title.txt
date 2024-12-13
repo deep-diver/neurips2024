@@ -1,0 +1,1 @@
+Rethinking Decoders for Transformer-based Semantic Segmentation: Compression is All You Need

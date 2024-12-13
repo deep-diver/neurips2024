@@ -1,0 +1,1 @@
+Schur Nets: exploiting local structure for equivariance in higher order graph neural networks

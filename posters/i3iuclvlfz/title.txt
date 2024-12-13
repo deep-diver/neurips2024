@@ -1,0 +1,1 @@
+FedLPA: One-shot Federated Learning with Layer-Wise Posterior Aggregation

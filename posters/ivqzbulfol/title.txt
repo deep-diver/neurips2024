@@ -1,0 +1,1 @@
+3D Gaussian Rendering Can Be Sparser: Efficient Rendering via Learned Fragment Pruning

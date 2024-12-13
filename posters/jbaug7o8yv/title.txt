@@ -1,0 +1,1 @@
+HumanSplat: Generalizable Single-Image Human Gaussian Splatting with Structure Priors
