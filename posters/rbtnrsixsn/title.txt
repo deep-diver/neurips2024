@@ -1,0 +1,1 @@
+DeMo: Decoupling Motion Forecasting into  Directional Intentions and Dynamic States

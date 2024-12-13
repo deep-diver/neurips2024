@@ -1,0 +1,1 @@
+Unveiling The Matthew Effect Across Channels: Assessing Layer Width Sufficiency via Weight Norm Variance

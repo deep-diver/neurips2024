@@ -1,0 +1,1 @@
+TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation

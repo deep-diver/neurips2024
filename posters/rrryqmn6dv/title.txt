@@ -1,0 +1,1 @@
+CoSW: Conditional Sample Weighting for Smoke Segmentation with Label Noise

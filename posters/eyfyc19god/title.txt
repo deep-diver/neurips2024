@@ -1,0 +1,1 @@
+Grid4D: 4D Decomposed Hash Encoding for High-fidelity Dynamic Gaussian Splatting

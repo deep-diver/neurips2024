@@ -1,0 +1,1 @@
+Kangaroo: Lossless Self-Speculative Decoding for Accelerating LLMs via Double Early Exiting

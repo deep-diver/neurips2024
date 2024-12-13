@@ -1,0 +1,1 @@
+FedAvP: Augment Local Data via Shared Policy in Federated Learning

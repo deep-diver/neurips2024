@@ -1,0 +1,1 @@
+Decomposing and Interpreting Image Representations via Text in ViTs Beyond CLIP

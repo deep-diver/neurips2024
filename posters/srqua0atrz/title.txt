@@ -1,0 +1,1 @@
+Diffusion-Inspired Truncated Sampler for Text-Video Retrieval

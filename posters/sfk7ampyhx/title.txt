@@ -1,0 +1,1 @@
+4Diffusion: Multi-view Video Diffusion Model for 4D Generation

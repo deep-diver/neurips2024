@@ -1,0 +1,1 @@
+Wasserstein convergence of Cech persistence diagrams for samplings of submanifolds

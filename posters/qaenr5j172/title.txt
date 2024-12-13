@@ -1,0 +1,1 @@
+FashionR2R: Texture-preserving Rendered-to-Real Image Translation with Diffusion Models

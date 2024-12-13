@@ -1,0 +1,1 @@
+D-CPT Law: Domain-specific Continual Pre-Training Scaling Law for Large Language Models

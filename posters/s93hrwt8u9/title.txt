@@ -1,0 +1,1 @@
+Activation Map Compression through Tensor Decomposition for Deep Learning

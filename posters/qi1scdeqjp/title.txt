@@ -1,0 +1,1 @@
+Upping the Game: How 2D U-Net Skip Connections Flip 3D Segmentation

@@ -1,0 +1,1 @@
+On Sampling Strategies for Spectral Model Sharding

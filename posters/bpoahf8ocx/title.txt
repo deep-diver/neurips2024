@@ -1,0 +1,1 @@
+Vivid-ZOO: Multi-View Video Generation with Diffusion Model

@@ -1,0 +1,1 @@
+Do LLMs Build World Representations? Probing Through the Lens of State Abstraction

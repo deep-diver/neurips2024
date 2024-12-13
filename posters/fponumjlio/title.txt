@@ -1,0 +1,1 @@
+Theoretical Characterisation of the Gauss Newton Conditioning in Neural Networks

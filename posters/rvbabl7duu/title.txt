@@ -1,0 +1,1 @@
+Face2QR: A Unified Framework for Aesthetic, Face-Preserving, and Scannable QR Code Generation

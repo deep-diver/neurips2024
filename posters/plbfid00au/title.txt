@@ -1,0 +1,1 @@
+The Impact of Geometric Complexity on Neural Collapse in Transfer Learning

@@ -1,0 +1,1 @@
+CRONOS: Enhancing Deep Learning with Scalable GPU Accelerated Convex Neural Networks

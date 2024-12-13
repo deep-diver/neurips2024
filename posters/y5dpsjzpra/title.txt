@@ -1,0 +1,1 @@
+Harnessing small projectors and multiple views for efficient vision pretraining

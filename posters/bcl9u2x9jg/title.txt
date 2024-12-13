@@ -1,0 +1,1 @@
+Easy Regional Contrastive Learning of Expressive Fashion Representations

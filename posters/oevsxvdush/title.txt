@@ -1,0 +1,1 @@
+Soft Tensor Product Representations for Fully Continuous, Compositional Visual Representations

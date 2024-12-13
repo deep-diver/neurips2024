@@ -1,0 +1,1 @@
+SCaR: Refining Skill Chaining for Long-Horizon Robotic Manipulation via Dual Regularization

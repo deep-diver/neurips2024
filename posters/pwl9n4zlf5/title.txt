@@ -1,0 +1,1 @@
+AutoManual: Generating Instruction Manuals by LLM Agents via Interactive Environmental Learning

@@ -1,0 +1,1 @@
+Evaluation of Text-to-Video Generation Models: A Dynamics Perspective

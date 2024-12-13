@@ -1,0 +1,1 @@
+SGD vs GD: Rank Deficiency in Linear Networks

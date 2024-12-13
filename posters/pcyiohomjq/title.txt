@@ -1,0 +1,1 @@
+What Makes CLIP More Robust to Long-Tailed Pre-Training Data? A Controlled Study for Transferable Insights

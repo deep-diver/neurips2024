@@ -1,0 +1,1 @@
+Understanding Multi-Granularity for Open-Vocabulary Part Segmentation

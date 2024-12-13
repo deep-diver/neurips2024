@@ -1,0 +1,1 @@
+A Gradient Accumulation Method for Dense Retriever under Memory Constraint

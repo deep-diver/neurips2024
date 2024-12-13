@@ -1,0 +1,1 @@
+GrounDiT: Grounding Diffusion Transformers via Noisy Patch Transplantation

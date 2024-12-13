@@ -1,0 +1,1 @@
+Certified Robustness for Deep Equilibrium Models via Serialized Random Smoothing

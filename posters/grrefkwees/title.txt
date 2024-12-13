@@ -1,0 +1,1 @@
+Diffusion4D: Fast Spatial-temporal Consistent 4D generation via Video Diffusion Models

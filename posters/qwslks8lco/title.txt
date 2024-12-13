@@ -1,0 +1,1 @@
+Grounded Answers for Multi-agent Decision-making Problem through Generative World Model

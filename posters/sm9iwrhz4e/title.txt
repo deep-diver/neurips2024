@@ -1,0 +1,1 @@
+Achieving Tractable Minimax Optimal Regret in Average Reward MDPs

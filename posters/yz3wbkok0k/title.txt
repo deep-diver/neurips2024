@@ -1,0 +1,1 @@
+Aggregate-and-Adapt Natural Language Prompts for Downstream Generalization of CLIP

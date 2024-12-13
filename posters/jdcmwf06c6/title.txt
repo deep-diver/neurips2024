@@ -1,0 +1,1 @@
+LT-Defense: Searching-free Backdoor Defense via Exploiting the Long-tailed Effect

@@ -1,0 +1,1 @@
+L4GM: Large 4D Gaussian Reconstruction Model

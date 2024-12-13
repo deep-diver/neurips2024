@@ -1,0 +1,1 @@
+VISA: Variational Inference with Sequential Sample-Average Approximations

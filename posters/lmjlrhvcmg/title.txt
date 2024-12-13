@@ -1,0 +1,1 @@
+An Improved Empirical Fisher Approximation for Natural Gradient Descent

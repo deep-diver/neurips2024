@@ -1,0 +1,1 @@
+Geometry-aware training of factorized layers in tensor Tucker format

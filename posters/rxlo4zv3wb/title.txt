@@ -1,0 +1,1 @@
+DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor

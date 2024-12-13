@@ -1,0 +1,1 @@
+Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control

@@ -1,0 +1,1 @@
+U-DiTs: Downsample Tokens in U-Shaped Diffusion Transformers

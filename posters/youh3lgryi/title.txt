@@ -1,0 +1,1 @@
+Synergistic Dual Spatial-aware Generation of Image-to-text and Text-to-image

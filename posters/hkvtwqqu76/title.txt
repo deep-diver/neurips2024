@@ -1,0 +1,1 @@
+DFA-GNN: Forward Learning of Graph Neural Networks by Direct Feedback Alignment

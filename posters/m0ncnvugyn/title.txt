@@ -1,0 +1,1 @@
+Are High-Degree Representations Really Unnecessary in Equivariant Graph Neural Networks?

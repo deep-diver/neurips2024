@@ -1,0 +1,1 @@
+Exploiting Descriptive Completeness Prior for Cross Modal Hashing with Incomplete Labels

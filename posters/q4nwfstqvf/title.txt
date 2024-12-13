@@ -1,0 +1,1 @@
+Nearly Minimax Optimal Regret for Multinomial Logistic Bandit

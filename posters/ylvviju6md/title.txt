@@ -1,0 +1,1 @@
+The Poisson Midpoint Method for Langevin Dynamics:  Provably Efficient Discretization for Diffusion Models

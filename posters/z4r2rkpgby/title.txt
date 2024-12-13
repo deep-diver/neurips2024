@@ -1,0 +1,1 @@
+Unity by Diversity: Improved Representation Learning for Multimodal VAEs

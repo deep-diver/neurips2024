@@ -1,0 +1,1 @@
+C-GAIL: Stabilizing Generative Adversarial Imitation Learning with Control Theory

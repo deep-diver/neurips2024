@@ -1,0 +1,1 @@
+Reinforcement Learning with LTL and $\omega$-Regular Objectives via Optimality-Preserving Translation to Average Rewards

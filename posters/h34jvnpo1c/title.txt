@@ -1,0 +1,1 @@
+Doubly Hierarchical Geometric Representations for Strand-based Human Hairstyle Generation

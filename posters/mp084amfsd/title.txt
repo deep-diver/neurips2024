@@ -1,0 +1,1 @@
+A Simple yet Scalable Granger Causal Structural Learning Approach for Topological Event Sequences

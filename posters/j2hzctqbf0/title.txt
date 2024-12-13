@@ -1,0 +1,1 @@
+Accurate and Steady Inertial Pose Estimation through Sequence Structure Learning and Modulation

@@ -1,0 +1,1 @@
+GLinSAT: The General Linear Satisfiability Neural Network Layer By Accelerated Gradient Descent

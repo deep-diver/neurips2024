@@ -1,0 +1,1 @@
+The motion planning neural circuit in goal-directed navigation as Lie group operator search

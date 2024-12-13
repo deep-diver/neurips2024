@@ -1,0 +1,1 @@
+Confident Natural Policy Gradient for Local Planning in  $q_\pi$-realizable Constrained MDPs

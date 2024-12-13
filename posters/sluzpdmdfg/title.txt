@@ -1,0 +1,1 @@
+ID-to-3D: Expressive ID-guided 3D Heads via Score Distillation Sampling

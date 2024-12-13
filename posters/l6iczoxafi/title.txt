@@ -1,0 +1,1 @@
+LoCo: Learning 3D Location-Consistent Image Features with a Memory-Efficient Ranking Loss

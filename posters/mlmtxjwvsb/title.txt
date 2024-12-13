@@ -1,0 +1,1 @@
+DMNet: Self-comparison Driven Model for Subject-independent Seizure Detection

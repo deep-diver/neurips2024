@@ -1,0 +1,1 @@
+Layer-Adaptive State Pruning for Deep State Space Models

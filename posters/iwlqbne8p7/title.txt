@@ -1,0 +1,1 @@
+Physics-Informed Regularization for Domain-Agnostic Dynamical System Modeling

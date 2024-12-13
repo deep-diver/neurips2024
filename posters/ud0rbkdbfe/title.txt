@@ -1,0 +1,1 @@
+Convergence Analysis of Split Federated Learning on Heterogeneous Data

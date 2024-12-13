@@ -1,0 +1,1 @@
+MoE Jetpack: From Dense Checkpoints to Adaptive Mixture of Experts for Vision Tasks
