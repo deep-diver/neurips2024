@@ -1,0 +1,1 @@
+SpelsNet: Surface Primitive Elements Segmentation by B-Rep Graph Structure Supervision

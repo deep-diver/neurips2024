@@ -1,0 +1,1 @@
+Optimizing the coalition gain in Online Auctions with Greedy Structured Bandits

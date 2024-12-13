@@ -1,0 +1,1 @@
+VLMimic: Vision Language Models are Visual Imitation Learner for Fine-grained Actions

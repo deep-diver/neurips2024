@@ -1,0 +1,1 @@
+Simplifying Latent Dynamics with Softly State-Invariant World Models

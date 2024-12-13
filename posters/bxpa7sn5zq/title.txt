@@ -1,0 +1,1 @@
+Learning Interaction-aware 3D Gaussian Splatting for One-shot Hand Avatars
