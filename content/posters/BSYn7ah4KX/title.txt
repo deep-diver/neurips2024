@@ -1,0 +1,1 @@
+Bias Amplification in Language Model Evolution: An Iterated Learning Perspective

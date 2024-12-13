@@ -1,0 +1,1 @@
+InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction

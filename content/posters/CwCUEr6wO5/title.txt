@@ -1,0 +1,1 @@
+Plan-on-Graph: Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs

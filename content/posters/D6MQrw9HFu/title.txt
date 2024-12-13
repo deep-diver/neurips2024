@@ -1,0 +1,1 @@
+FOOGD: Federated Collaboration for Both Out-of-distribution Generalization and Detection

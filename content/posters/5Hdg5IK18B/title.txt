@@ -1,0 +1,1 @@
+MG-Net: Learn to Customize QAOA with Circuit Depth Awareness

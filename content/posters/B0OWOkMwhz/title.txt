@@ -1,0 +1,1 @@
+MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views

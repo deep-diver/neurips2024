@@ -1,0 +1,1 @@
+Spiking Neural Network as Adaptive Event Stream Slicer

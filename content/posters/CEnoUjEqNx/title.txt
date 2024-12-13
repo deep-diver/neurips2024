@@ -1,0 +1,1 @@
+Convergence of No-Swap-Regret Dynamics in Self-Play
