@@ -1,0 +1,1 @@
+Learning symmetries via weight-sharing with doubly stochastic tensors

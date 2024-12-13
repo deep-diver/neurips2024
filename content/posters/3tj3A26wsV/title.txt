@@ -1,0 +1,1 @@
+A theoretical case-study of Scalable Oversight in Hierarchical Reinforcement Learning

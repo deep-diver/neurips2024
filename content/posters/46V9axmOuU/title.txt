@@ -1,0 +1,1 @@
+AP-Adapter: Improving Generalization of Automatic Prompts on Unseen Text-to-Image Diffusion Models

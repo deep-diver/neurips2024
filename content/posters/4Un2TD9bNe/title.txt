@@ -1,0 +1,1 @@
+Rethinking Memory and Communication Costs for Efficient Data Parallel Training of Large Language Models

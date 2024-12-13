@@ -1,0 +1,1 @@
+Slack-Free Spiking Neural Network Formulation for Hypergraph Minimum Vertex Cover

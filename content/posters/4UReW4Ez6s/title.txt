@@ -1,0 +1,1 @@
+Provably Optimal Memory Capacity for  Modern Hopfield Models:   Transformer-Compatible   Dense Associative Memories as Spherical Codes
