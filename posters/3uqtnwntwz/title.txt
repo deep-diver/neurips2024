@@ -1,0 +1,1 @@
+Zero-to-Hero: Enhancing Zero-Shot Novel View Synthesis via Attention Map Filtering

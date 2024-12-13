@@ -1,0 +1,1 @@
+AV-GS: Learning Material and Geometry Aware Priors for Novel View Acoustic Synthesis
