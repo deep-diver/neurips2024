@@ -1,0 +1,1 @@
+Guided Trajectory Generation with Diffusion Models for Offline Model-based Optimization

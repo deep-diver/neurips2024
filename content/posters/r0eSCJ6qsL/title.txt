@@ -1,0 +1,1 @@
+AsCAN: Asymmetric Convolution-Attention Networks for Efficient Recognition and Generation

@@ -1,0 +1,1 @@
+Infusing Self-Consistency into Density Functional Theory Hamiltonian Prediction via Deep Equilibrium Models

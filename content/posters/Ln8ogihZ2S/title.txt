@@ -1,0 +1,1 @@
+eXponential FAmily Dynamical Systems (XFADS): Large-scale nonlinear Gaussian state-space modeling

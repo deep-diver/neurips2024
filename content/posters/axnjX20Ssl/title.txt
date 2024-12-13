@@ -1,0 +1,1 @@
+VCR-GauS: View Consistent Depth-Normal Regularizer for Gaussian Surface Reconstruction

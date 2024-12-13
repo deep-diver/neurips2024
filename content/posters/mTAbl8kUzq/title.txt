@@ -1,0 +1,1 @@
+LiteVAE: Lightweight and Efficient Variational Autoencoders for Latent Diffusion Models

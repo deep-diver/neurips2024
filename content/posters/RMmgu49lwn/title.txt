@@ -1,0 +1,1 @@
+Image Understanding Makes for A Good Tokenizer for Image Generation

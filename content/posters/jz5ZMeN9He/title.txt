@@ -1,0 +1,1 @@
+DRIP: Unleashing Diffusion Priors for Joint Foreground and Alpha Prediction in Image Matting

@@ -1,0 +1,1 @@
+Bias in Motion: Theoretical Insights into the Dynamics of Bias in SGD Training

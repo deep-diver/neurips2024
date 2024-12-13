@@ -1,0 +1,1 @@
+Nearly Minimax Optimal Submodular Maximization with Bandit Feedback

@@ -1,0 +1,1 @@
+SEL-BALD: Deep Bayesian Active Learning for Selective Labeling with Instance Rejection

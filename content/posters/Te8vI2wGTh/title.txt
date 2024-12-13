@@ -1,0 +1,1 @@
+Hyper-opinion Evidential Deep Learning for Out-of-Distribution Detection

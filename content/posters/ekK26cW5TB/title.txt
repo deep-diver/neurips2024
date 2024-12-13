@@ -1,0 +1,1 @@
+AUCSeg: AUC-oriented Pixel-level Long-tail Semantic Segmentation

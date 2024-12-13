@@ -1,0 +1,1 @@
+TrajCLIP: Pedestrian trajectory prediction method using contrastive learning and idempotent networks

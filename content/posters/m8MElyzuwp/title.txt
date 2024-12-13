@@ -1,0 +1,1 @@
+Fetch and Forge: Efficient Dataset Condensation for Object Detection

@@ -1,0 +1,1 @@
+Era3D: High-Resolution Multiview Diffusion using Efficient Row-wise Attention

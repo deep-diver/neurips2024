@@ -1,0 +1,1 @@
+A versatile informative diffusion model for single-cell ATAC-seq data generation and analysis

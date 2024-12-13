@@ -1,0 +1,1 @@
+Octopus: A Multi-modal LLM with Parallel Recognition and Sequential Understanding

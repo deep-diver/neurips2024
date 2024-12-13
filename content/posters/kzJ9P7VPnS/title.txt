@@ -1,0 +1,1 @@
+LP-3DGS: Learning to Prune 3D Gaussian Splatting

@@ -1,0 +1,1 @@
+A Motion-aware Spatio-temporal Graph for Video Salient Object Ranking

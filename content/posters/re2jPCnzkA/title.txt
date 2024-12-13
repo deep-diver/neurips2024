@@ -1,0 +1,1 @@
+MIDGArD: Modular Interpretable Diffusion over Graphs for Articulated Designs

@@ -1,0 +1,1 @@
+MADiff: Offline Multi-agent Learning with Diffusion Models

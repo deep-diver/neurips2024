@@ -1,0 +1,1 @@
+LaKD: Length-agnostic Knowledge Distillation for Trajectory Prediction with Any Length Observations

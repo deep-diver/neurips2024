@@ -1,0 +1,1 @@
+Logical characterizations of recurrent graph neural networks with reals and floats

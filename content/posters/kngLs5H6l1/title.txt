@@ -1,0 +1,1 @@
+Normal-GS: 3D Gaussian Splatting with Normal-Involved Rendering

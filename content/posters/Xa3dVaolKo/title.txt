@@ -1,0 +1,1 @@
+Pure Message Passing Can Estimate Common Neighbor for Link Prediction

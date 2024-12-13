@@ -1,0 +1,1 @@
+CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting

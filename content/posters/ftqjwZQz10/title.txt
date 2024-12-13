@@ -1,0 +1,1 @@
+DEX: Data Channel Extension for Efficient CNN Inference on Tiny AI Accelerators

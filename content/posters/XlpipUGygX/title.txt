@@ -1,0 +1,1 @@
+Amortized Planning with Large-Scale Transformers: A Case Study on Chess

@@ -1,0 +1,1 @@
+MoMu-Diffusion: On Learning Long-Term Motion-Music Synchronization and Correspondence

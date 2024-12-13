@@ -1,0 +1,1 @@
+VLG-CBM: Training Concept Bottleneck Models with Vision-Language Guidance

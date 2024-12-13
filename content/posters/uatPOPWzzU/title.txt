@@ -1,0 +1,1 @@
+Unifying Homophily and Heterophily for Spectral Graph Neural Networks via Triple Filter Ensembles

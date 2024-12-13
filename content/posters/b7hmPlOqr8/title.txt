@@ -1,0 +1,1 @@
+Learning Frequency-Adapted Vision Foundation Model for Domain Generalized Semantic Segmentation

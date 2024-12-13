@@ -1,0 +1,1 @@
+S-SOS: Stochastic Sum-Of-Squares for Parametric Polynomial Optimization

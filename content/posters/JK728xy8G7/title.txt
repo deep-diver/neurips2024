@@ -1,0 +1,1 @@
+Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention

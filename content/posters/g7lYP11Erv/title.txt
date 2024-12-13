@@ -1,0 +1,1 @@
+Point-PRC: A Prompt Learning Based Regulation Framework for Generalizable Point Cloud Analysis

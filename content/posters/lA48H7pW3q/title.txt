@@ -1,0 +1,1 @@
+QUEST: Quadruple Multimodal Contrastive Learning with Constraints and Self-Penalization

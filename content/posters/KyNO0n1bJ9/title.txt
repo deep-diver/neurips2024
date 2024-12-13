@@ -1,0 +1,1 @@
+The Minimax Rate of HSIC Estimation for Translation-Invariant Kernels

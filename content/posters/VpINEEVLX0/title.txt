@@ -1,0 +1,1 @@
+A Topology-aware Graph Coarsening Framework for Continual Graph Learning

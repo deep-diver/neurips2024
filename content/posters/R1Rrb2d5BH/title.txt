@@ -1,0 +1,1 @@
+EZ-HOI: VLM Adaptation via Guided Prompt Learning for Zero-Shot HOI Detection

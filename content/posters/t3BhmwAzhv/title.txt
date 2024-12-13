@@ -1,0 +1,1 @@
+Chat-Scene: Bridging 3D Scene and Large Language Models with Object Identifiers

@@ -1,0 +1,1 @@
+Kernel-Based Function Approximation for Average Reward Reinforcement Learning: An Optimist No-Regret Algorithm

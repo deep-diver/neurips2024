@@ -1,0 +1,1 @@
+GeoLRM: Geometry-Aware Large Reconstruction Model for High-Quality 3D Gaussian Generation

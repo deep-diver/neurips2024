@@ -1,0 +1,1 @@
+Normalization Layer Per-Example Gradients are Sufficient to Predict Gradient Noise Scale in Transformers

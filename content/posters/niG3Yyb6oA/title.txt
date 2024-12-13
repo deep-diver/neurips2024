@@ -1,0 +1,1 @@
+A Layer-Wise Natural Gradient Optimizer for Training Deep Neural Networks

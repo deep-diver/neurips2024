@@ -1,0 +1,1 @@
+VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation

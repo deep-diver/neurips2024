@@ -1,0 +1,1 @@
+GSGAN: Adversarial Learning for Hierarchical Generation of 3D Gaussian Splats

@@ -1,0 +1,1 @@
+MaskFactory: Towards High-quality Synthetic Data Generation for Dichotomous Image Segmentation

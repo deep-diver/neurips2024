@@ -1,0 +1,1 @@
+TinyTTA: Efficient Test-time Adaptation via Early-exit Ensembles on Edge Devices

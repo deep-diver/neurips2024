@@ -1,0 +1,1 @@
+VeXKD: The Versatile Integration of Cross-Modal Fusion and Knowledge Distillation for 3D Perception

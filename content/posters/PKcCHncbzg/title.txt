@@ -1,0 +1,1 @@
+Relationship Prompt Learning is Enough for Open-Vocabulary Semantic Segmentation

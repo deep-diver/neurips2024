@@ -1,0 +1,1 @@
+A Combinatorial Algorithm for the Semi-Discrete Optimal Transport Problem

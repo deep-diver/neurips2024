@@ -1,0 +1,1 @@
+Beyond Concept Bottleneck Models: How to Make Black Boxes Intervenable?

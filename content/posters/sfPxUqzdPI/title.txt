@@ -1,0 +1,1 @@
+Multi-scale Consistency for Robust 3D Registration via Hierarchical Sinkhorn Tree

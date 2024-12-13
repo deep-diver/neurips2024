@@ -1,0 +1,1 @@
+Accelerating Pre-training of Multimodal LLMs via Chain-of-Sight

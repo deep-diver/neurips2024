@@ -1,0 +1,1 @@
+Deep Graph Neural Networks via Posteriori-Sampling-based Node-Adaptative Residual Module

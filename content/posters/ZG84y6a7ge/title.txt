@@ -1,0 +1,1 @@
+SlimSAM: 0.1% Data Makes Segment Anything Slim

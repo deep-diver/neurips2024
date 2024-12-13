@@ -1,0 +1,1 @@
+Kraken: Inherently Parallel Transformers For Efficient Multi-Device Inference

@@ -1,0 +1,1 @@
+Dual Encoder GAN Inversion for High-Fidelity 3D Head Reconstruction from Single Images

@@ -1,0 +1,1 @@
+Convergence of $\text{log}(1/\epsilon)$ for Gradient-Based Algorithms in Zero-Sum Games without the Condition Number: A Smoothed Analysis

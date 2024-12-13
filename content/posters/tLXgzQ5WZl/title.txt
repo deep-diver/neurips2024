@@ -1,0 +1,1 @@
+SCube: Instant Large-Scale Scene Reconstruction using VoxSplats

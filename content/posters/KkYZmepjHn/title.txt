@@ -1,0 +1,1 @@
+Fast Sampling via Discrete Non-Markov Diffusion Models with Predetermined Transition Time

@@ -1,0 +1,1 @@
+Building on Efficient Foundations: Effective Training of LLMs with Structured Feedforward Layers

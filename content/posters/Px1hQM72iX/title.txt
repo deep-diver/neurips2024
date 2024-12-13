@@ -1,0 +1,1 @@
+Density-based User Representation using Gaussian Process Regression for Multi-interest Personalized Retrieval

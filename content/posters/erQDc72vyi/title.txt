@@ -1,0 +1,1 @@
+Frozen-DETR: Enhancing DETR with Image Understanding from Frozen Foundation Models

@@ -1,0 +1,1 @@
+CODE: Contrasting Self-generated Description to Combat Hallucination in Large Multi-modal Models
