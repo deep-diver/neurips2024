@@ -1,0 +1,1 @@
+SpecExec: Massively Parallel Speculative Decoding For Interactive LLM Inference on Consumer Devices

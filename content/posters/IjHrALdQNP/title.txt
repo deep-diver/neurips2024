@@ -1,0 +1,1 @@
+GAMap: Zero-Shot Object Goal Navigation with Multi-Scale Geometric-Affordance Guidance

@@ -1,0 +1,1 @@
+Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts

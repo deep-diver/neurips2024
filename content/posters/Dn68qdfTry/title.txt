@@ -1,0 +1,1 @@
+Almost Surely Asymptotically Constant Graph Neural Networks

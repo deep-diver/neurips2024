@@ -1,0 +1,1 @@
+Revisiting Self-Supervised Heterogeneous Graph Learning from Spectral Clustering Perspective

@@ -1,0 +1,1 @@
+BiScope: AI-generated Text Detection by Checking Memorization of Preceding Tokens
