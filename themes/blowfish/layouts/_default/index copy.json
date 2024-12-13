@@ -9,13 +9,11 @@
     {{- $index = $index | append (dict
     "date" (.Date | time.Format (.Site.Language.Params.dateFormat | default ":date_long")) 
     "title" (.Title | emojify | safeJS)
-    "summary" (.Summary | safeJS)
     "permalink" .RelPermalink
     ) -}}
   {{- else -}}
     {{- $index = $index | append (dict
     "title" (.Title | emojify | safeJS)
-    "summary" (.Summary | safeJS)
     "permalink" .RelPermalink
     ) -}}
   {{- end -}}
