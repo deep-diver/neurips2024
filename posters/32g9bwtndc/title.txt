@@ -1,0 +1,1 @@
+LLMs as Zero-shot Graph Learners: Alignment of GNN Representations with LLM Token Embeddings

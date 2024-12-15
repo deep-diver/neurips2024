@@ -1,0 +1,1 @@
+Topological obstruction to the training of shallow ReLU neural networks

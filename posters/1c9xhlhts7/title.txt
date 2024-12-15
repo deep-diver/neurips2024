@@ -1,0 +1,1 @@
+Warm-up Free Policy Optimization: Improved Regret in Linear Markov Decision Processes

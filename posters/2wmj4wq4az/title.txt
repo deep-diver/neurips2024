@@ -1,0 +1,1 @@
+Exploring Fixed Point in Image Editing: Theoretical Support and Convergence Optimization

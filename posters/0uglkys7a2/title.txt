@@ -1,0 +1,1 @@
+Maximizing utility in multi-agent environments by anticipating the behavior of other learners

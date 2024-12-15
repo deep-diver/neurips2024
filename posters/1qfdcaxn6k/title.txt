@@ -1,0 +1,1 @@
+Wasserstein Distance Rivals Kullback-Leibler Divergence for Knowledge Distillation

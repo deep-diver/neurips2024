@@ -1,0 +1,1 @@
+4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization

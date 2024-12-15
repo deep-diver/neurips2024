@@ -1,0 +1,1 @@
+Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding
