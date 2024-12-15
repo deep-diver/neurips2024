@@ -1,0 +1,1 @@
+Unleashing Region Understanding in Intermediate Layers for MLLM-based Referring Expression Generation

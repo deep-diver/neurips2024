@@ -1,0 +1,1 @@
+OpenGaussian: Towards Point-Level 3D Gaussian-based Open Vocabulary Understanding

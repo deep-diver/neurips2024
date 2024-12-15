@@ -1,0 +1,1 @@
+SMART: Scalable Multi-agent Real-time Motion Generation via Next-token Prediction

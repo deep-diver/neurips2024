@@ -1,0 +1,1 @@
+GS-Hider: Hiding Messages into 3D Gaussian Splatting

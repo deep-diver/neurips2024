@@ -1,0 +1,1 @@
+Privacy without Noisy Gradients: Slicing Mechanism for Generative Model Training

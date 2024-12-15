@@ -1,0 +1,1 @@
+Mini-Sequence Transformers: Optimizing Intermediate Memory for Long Sequences Training

@@ -1,0 +1,1 @@
+IR-CM: The Fast and Universal Image Restoration Method Based on Consistency Model

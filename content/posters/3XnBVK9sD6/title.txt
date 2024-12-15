@@ -1,0 +1,1 @@
+InfoRM: Mitigating Reward Hacking in RLHF via Information-Theoretic Reward Modeling

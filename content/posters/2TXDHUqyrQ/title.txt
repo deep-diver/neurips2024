@@ -1,0 +1,1 @@
+DiffuserLite: Towards Real-time Diffusion Planning

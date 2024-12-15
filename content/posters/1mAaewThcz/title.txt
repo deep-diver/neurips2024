@@ -1,0 +1,1 @@
+Theoretical and Empirical Insights into the Origins of Degree Bias in Graph Neural Networks

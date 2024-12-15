@@ -1,0 +1,1 @@
+Revisiting Adversarial Patches for Designing Camera-Agnostic Attacks against Person Detection

@@ -1,0 +1,1 @@
+Gaussian Graph Network: Learning Efficient and Generalizable Gaussian Representations from Multi-view Images
