@@ -1,0 +1,1 @@
+Leveraging Hallucinations to Reduce Manual Prompt Dependency in Promptable Segmentation

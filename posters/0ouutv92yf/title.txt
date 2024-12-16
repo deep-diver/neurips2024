@@ -1,0 +1,1 @@
+ProtGO: Function-Guided Protein Modeling for Unified Representation Learning

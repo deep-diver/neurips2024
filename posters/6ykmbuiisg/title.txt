@@ -1,0 +1,1 @@
+Inevitable Trade-off between Watermark Strength and Speculative Sampling Efficiency for Language Models

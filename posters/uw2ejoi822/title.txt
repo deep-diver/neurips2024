@@ -1,0 +1,1 @@
+Renovating Names in Open-Vocabulary Segmentation Benchmarks

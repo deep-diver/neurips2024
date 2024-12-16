@@ -1,0 +1,1 @@
+Efficient Temporal Action Segmentation via Boundary-aware Query Voting

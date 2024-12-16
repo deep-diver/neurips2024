@@ -1,0 +1,1 @@
+Compositional Automata Embeddings for Goal-Conditioned Reinforcement Learning

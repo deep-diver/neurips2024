@@ -1,0 +1,1 @@
+Spec-Gaussian: Anisotropic View-Dependent Appearance for 3D Gaussian Splatting

@@ -1,0 +1,1 @@
+MagR: Weight Magnitude Reduction for Enhancing Post-Training Quantization

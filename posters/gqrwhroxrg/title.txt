@@ -1,0 +1,1 @@
+MVSDet: Multi-View Indoor 3D Object Detection via Efficient Plane Sweeps

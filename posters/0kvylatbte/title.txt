@@ -1,0 +1,1 @@
+Latent Plan Transformer for Trajectory Abstraction: Planning as Latent Space Inference

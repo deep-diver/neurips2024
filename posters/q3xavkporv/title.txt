@@ -1,0 +1,1 @@
+Self-Play Fine-tuning of Diffusion Models for Text-to-image Generation

@@ -1,0 +1,1 @@
+Unconditional stability of a recurrent neural circuit implementing divisive normalization

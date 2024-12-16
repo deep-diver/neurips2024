@@ -1,0 +1,1 @@
+Matching the Statistical Query Lower Bound for $k$-Sparse Parity Problems with Sign Stochastic Gradient Descent

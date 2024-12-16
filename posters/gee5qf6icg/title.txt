@@ -1,0 +1,1 @@
+Neuronal Competition Groups with Supervised STDP for Spike-Based Classification

@@ -1,0 +1,1 @@
+FreqBlender: Enhancing DeepFake Detection by Blending Frequency Knowledge

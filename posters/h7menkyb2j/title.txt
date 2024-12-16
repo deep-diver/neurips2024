@@ -1,0 +1,1 @@
+Ultrafast classical phylogenetic method beats large protein language models on variant effect prediction

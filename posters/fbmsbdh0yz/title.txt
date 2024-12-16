@@ -1,0 +1,1 @@
+Masked Hard-Attention Transformers Recognize Exactly the Star-Free Languages

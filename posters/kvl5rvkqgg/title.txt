@@ -1,0 +1,1 @@
+Repurposing Language Models into Embedding Models: Finding the Compute-Optimal Recipe

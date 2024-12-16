@@ -1,0 +1,1 @@
+GFT: Graph Foundation Model with Transferable Tree Vocabulary

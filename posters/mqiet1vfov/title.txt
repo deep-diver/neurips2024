@@ -1,0 +1,1 @@
+Boosting Sample Efficiency and Generalization in Multi-agent Reinforcement Learning via Equivariance

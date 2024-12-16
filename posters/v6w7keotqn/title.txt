@@ -1,0 +1,1 @@
+EMVP: Embracing Visual Foundation Model for Visual Place Recognition with Centroid-Free Probing

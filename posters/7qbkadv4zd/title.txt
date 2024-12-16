@@ -1,0 +1,1 @@
+DeltaDEQ: Exploiting Heterogeneous Convergence for Accelerating Deep Equilibrium Iterations

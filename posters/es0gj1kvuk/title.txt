@@ -1,0 +1,1 @@
+Data subsampling for Poisson regression with pth-root-link

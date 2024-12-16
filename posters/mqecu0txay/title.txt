@@ -1,0 +1,1 @@
+CLIPCEIL: Domain Generalization through CLIP via Channel rEfinement and Image-text aLignment

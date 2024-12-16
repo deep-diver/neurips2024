@@ -1,0 +1,1 @@
+FasterDiT: Towards Faster Diffusion Transformers Training without Architecture Modification

@@ -1,0 +1,1 @@
+DEPrune: Depth-wise Separable Convolution Pruning for Maximizing GPU Parallelism

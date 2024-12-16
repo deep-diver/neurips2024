@@ -1,0 +1,1 @@
+RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-Fold

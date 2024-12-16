@@ -1,0 +1,1 @@
+GDeR: Safeguarding Efficiency, Balancing, and Robustness via Prototypical Graph Pruning

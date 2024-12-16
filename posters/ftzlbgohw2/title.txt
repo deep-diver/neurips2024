@@ -1,0 +1,1 @@
+Improving Gloss-free Sign Language Translation by Reducing Representation Density

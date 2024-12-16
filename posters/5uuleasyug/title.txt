@@ -1,0 +1,1 @@
+MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models

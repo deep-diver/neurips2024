@@ -1,0 +1,1 @@
+Neural Pose Representation Learning for Generating and Transferring Non-Rigid Object Poses

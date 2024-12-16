@@ -1,0 +1,1 @@
+Deep linear networks for regression are implicitly regularized towards flat minima

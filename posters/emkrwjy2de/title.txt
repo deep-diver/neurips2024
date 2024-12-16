@@ -1,0 +1,1 @@
+Spectral Graph Pruning Against Over-Squashing and Over-Smoothing

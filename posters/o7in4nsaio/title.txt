@@ -1,0 +1,1 @@
+Achieving Near-Optimal Convergence for Distributed Minimax Optimization with Adaptive Stepsizes

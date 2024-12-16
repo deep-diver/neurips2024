@@ -1,0 +1,1 @@
+QT-ViT: Improving Linear Attention in ViT with Quadratic Taylor Expansion

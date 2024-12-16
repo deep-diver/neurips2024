@@ -1,0 +1,1 @@
+TFS-NeRF: Template-Free NeRF for Semantic 3D Reconstruction of Dynamic Scene

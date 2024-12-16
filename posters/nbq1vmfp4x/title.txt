@@ -1,0 +1,1 @@
+The Power of Hard Attention Transformers on Data Sequences: A formal language theoretic perspective

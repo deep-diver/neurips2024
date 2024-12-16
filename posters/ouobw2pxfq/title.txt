@@ -1,0 +1,1 @@
+CALANet: Cheap All-Layer Aggregation for Human Activity Recognition

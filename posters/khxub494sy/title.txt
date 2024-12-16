@@ -1,0 +1,1 @@
+Nesterov acceleration despite very noisy gradients

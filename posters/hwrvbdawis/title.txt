@@ -1,0 +1,1 @@
+Entropy-regularized Diffusion Policy with Q-Ensembles for Offline Reinforcement Learning

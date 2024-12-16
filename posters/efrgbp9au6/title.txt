@@ -1,0 +1,1 @@
+Emergence of heavy tails in homogenized stochastic gradient descent

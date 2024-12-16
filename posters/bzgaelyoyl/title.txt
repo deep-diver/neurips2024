@@ -1,0 +1,1 @@
+Revisiting motion information for RGB-Event tracking with MOT philosophy

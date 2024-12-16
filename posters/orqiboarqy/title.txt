@@ -1,0 +1,1 @@
+On the Power of Small-size Graph Neural Networks for Linear Programming

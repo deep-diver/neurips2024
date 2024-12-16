@@ -1,0 +1,1 @@
+Optimal and Approximate Adaptive Stochastic Quantization

@@ -1,0 +1,1 @@
+Fixed Confidence Best Arm Identification in the Bayesian Setting

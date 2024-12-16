@@ -1,0 +1,1 @@
+Probing Social Bias in Labor Market Text Generation by ChatGPT: A Masked Language Model Approach

@@ -1,0 +1,1 @@
+A Boosting-Type Convergence Result for AdaBoost.MH with Factorized Multi-Class Classifiers

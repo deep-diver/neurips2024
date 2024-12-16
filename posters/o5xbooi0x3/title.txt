@@ -1,0 +1,1 @@
+Hyper-SD: Trajectory Segmented Consistency Model for Efficient Image Synthesis

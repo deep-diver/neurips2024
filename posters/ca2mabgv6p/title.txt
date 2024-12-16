@@ -1,0 +1,1 @@
+Faster Diffusion: Rethinking the Role of the Encoder for Diffusion Model Inference

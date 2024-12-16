@@ -1,0 +1,1 @@
+Trajectory Data Suffices for Statistically Efficient Learning in Offline RL with Linear $q^\pi$-Realizability and Concentrability

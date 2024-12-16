@@ -1,0 +1,1 @@
+Hallo3D: Multi-Modal Hallucination Detection and Mitigation for Consistent 3D Content Generation

@@ -1,0 +1,1 @@
+SplitNeRF: Split Sum Approximation Neural Field for Joint Geometry, Illumination, and Material Estimation

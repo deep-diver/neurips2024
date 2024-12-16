@@ -1,0 +1,1 @@
+Self-Retrieval: End-to-End Information Retrieval with One Large Language Model

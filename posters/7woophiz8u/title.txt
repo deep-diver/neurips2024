@@ -1,0 +1,1 @@
+Derivatives of Stochastic Gradient Descent in parametric optimization

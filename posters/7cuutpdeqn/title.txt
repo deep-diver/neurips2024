@@ -1,0 +1,1 @@
+Analytically deriving Partial Information Decomposition for affine systems of stable and convolution-closed distributions

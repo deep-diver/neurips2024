@@ -1,0 +1,1 @@
+Atlas3D: Physically Constrained Self-Supporting Text-to-3D for Simulation and Fabrication

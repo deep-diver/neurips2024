@@ -1,0 +1,1 @@
+Rethinking the Capacity of Graph Neural Networks for Branching Strategy

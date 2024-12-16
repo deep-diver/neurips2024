@@ -1,0 +1,1 @@
+Geometry of naturalistic object representations in recurrent neural network models of working memory

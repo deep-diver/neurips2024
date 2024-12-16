@@ -1,0 +1,1 @@
+A Surprisingly Simple Approach to Generalized Few-Shot Semantic Segmentation

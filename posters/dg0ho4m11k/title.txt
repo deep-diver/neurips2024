@@ -1,0 +1,1 @@
+Exploring Consistency in Graph Representations: from Graph Kernels to Graph Neural Networks

@@ -1,0 +1,1 @@
+Newton Informed Neural Operator for Computing Multiple Solutions of Nonlinear Partials Differential Equations

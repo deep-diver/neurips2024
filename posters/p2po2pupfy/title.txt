@@ -1,0 +1,1 @@
+$\text{Di}^2\text{Pose}$: Discrete Diffusion Model for Occluded 3D Human Pose Estimation

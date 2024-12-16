@@ -1,0 +1,1 @@
+NeuralClothSim: Neural Deformation Fields Meet the Thin Shell Theory

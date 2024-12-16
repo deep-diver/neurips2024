@@ -1,0 +1,1 @@
+You Don’t Need Domain-Specific Data Augmentations When Scaling Self-Supervised Learning
