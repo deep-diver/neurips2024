@@ -1,0 +1,1 @@
+Neural collapse vs. low-rank bias: Is deep neural collapse really optimal?

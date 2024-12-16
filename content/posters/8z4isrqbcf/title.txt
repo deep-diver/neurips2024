@@ -1,0 +1,1 @@
+CV-VAE: A Compatible Video VAE for Latent Generative Video Models

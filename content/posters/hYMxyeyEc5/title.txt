@@ -1,0 +1,1 @@
+Embedding Trajectory for Out-of-Distribution Detection in Mathematical Reasoning

@@ -1,0 +1,1 @@
+Amortized Eigendecomposition for Neural Networks

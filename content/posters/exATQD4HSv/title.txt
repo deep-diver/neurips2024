@@ -1,0 +1,1 @@
+A scalable generative model for dynamical system reconstruction from neuroimaging data

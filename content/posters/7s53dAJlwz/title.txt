@@ -1,0 +1,1 @@
+LAM3D: Large Image-Point Clouds Alignment Model for 3D Reconstruction from Single Image

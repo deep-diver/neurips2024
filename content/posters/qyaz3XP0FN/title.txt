@@ -1,0 +1,1 @@
+Parametric model reduction of mean-field and stochastic systems via higher-order action matching

@@ -1,0 +1,1 @@
+Bounds for the smallest eigenvalue of the NTK for arbitrary spherical data of arbitrary dimension

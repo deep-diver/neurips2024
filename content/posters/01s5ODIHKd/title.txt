@@ -1,0 +1,1 @@
+FreqMark: Invisible Image Watermarking via Frequency Based Optimization in Latent Space

@@ -1,0 +1,1 @@
+Transformers as Game Players: Provable In-context Game-playing Capabilities of Pre-trained Models

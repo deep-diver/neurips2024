@@ -1,0 +1,1 @@
+Resource-Aware Federated Self-Supervised Learning with Global Class Representations

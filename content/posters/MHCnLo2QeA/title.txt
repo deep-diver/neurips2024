@@ -1,0 +1,1 @@
+Estimating Ego-Body Pose from Doubly Sparse Egocentric Video Data

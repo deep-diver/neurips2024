@@ -1,0 +1,1 @@
+Optimal Rates for Vector-Valued Spectral Regularization Learning Algorithms

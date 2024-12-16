@@ -1,0 +1,1 @@
+Stability and Generalization of Adversarial Training for Shallow Neural Networks with Smooth Activation

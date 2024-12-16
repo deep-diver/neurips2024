@@ -1,0 +1,1 @@
+CoFie: Learning Compact Neural Surface Representations with Coordinate Fields

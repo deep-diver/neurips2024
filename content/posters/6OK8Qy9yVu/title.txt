@@ -1,0 +1,1 @@
+Why Go Full? Elevating Federated Learning Through Partial Network Updates

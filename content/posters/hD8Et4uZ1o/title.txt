@@ -1,0 +1,1 @@
+An Equivalence Between Static and Dynamic Regret Minimization

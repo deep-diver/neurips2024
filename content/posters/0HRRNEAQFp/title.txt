@@ -1,0 +1,1 @@
+A General Protocol to Probe Large Vision Models for 3D Physical Understanding

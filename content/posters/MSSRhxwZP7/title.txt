@@ -1,0 +1,1 @@
+Learning Disentangled Representations for Perceptual Point Cloud Quality Assessment via Mutual Information Minimization

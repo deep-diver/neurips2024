@@ -1,0 +1,1 @@
+Unifying Generation and Prediction on Graphs with Latent Graph Diffusion

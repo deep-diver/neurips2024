@@ -1,0 +1,1 @@
+State Space Models on Temporal Graphs: A First-Principles Study

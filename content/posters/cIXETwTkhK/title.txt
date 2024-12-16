@@ -1,0 +1,1 @@
+Training Binary Neural Networks via Gaussian Variational Inference and Low-Rank Semidefinite Programming

@@ -1,0 +1,1 @@
+A Flexible, Equivariant Framework for Subgraph GNNs via Graph Products and Graph Coarsening

@@ -1,0 +1,1 @@
+MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting

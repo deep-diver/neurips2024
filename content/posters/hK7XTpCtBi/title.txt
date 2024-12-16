@@ -1,0 +1,1 @@
+Fast Last-Iterate Convergence of Learning in Games Requires Forgetful Algorithms

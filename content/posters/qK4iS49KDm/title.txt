@@ -1,0 +1,1 @@
+Neural network learns low-dimensional polynomials with SGD near the information-theoretic limit

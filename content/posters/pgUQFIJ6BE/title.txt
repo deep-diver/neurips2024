@@ -1,0 +1,1 @@
+Near-Optimal Distributed Minimax Optimization under the Second-Order Similarity

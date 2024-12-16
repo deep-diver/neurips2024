@@ -1,0 +1,1 @@
+Equivariant spatio-hemispherical networks for diffusion MRI deconvolution

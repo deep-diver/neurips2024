@@ -1,0 +1,1 @@
+Directional Smoothness and Gradient Methods: Convergence and Adaptivity

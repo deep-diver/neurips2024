@@ -1,0 +1,1 @@
+Learning from Pattern Completion: Self-supervised Controllable Generation

@@ -1,0 +1,1 @@
+Towards a theory of how the structure of language is acquired by deep neural networks

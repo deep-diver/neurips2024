@@ -1,0 +1,1 @@
+Director3D: Real-world Camera Trajectory and 3D Scene Generation from Text

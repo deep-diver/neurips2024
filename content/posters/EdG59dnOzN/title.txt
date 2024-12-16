@@ -1,0 +1,1 @@
+Remove that Square Root: A New Efficient Scale-Invariant Version of AdaGrad

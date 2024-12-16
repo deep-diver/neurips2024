@@ -1,0 +1,1 @@
+CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching

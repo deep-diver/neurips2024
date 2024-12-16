@@ -1,0 +1,1 @@
+HumanVLA: Towards Vision-Language Directed Object Rearrangement by Physical Humanoid

@@ -1,0 +1,1 @@
+Can neural operators always be continuously discretized?

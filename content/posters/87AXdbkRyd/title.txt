@@ -1,0 +1,1 @@
+Self-supervised Transformation Learning for Equivariant Representations

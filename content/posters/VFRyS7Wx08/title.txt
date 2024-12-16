@@ -1,0 +1,1 @@
+Rethinking Inverse Reinforcement Learning: from Data Alignment to Task Alignment

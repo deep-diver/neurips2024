@@ -1,0 +1,1 @@
+Using Surrogates in Covariate-adjusted Response-adaptive Randomization Experiments with Delayed Outcomes

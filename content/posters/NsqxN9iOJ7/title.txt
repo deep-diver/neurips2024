@@ -1,0 +1,1 @@
+Motion Consistency Model: Accelerating Video Diffusion with Disentangled Motion-Appearance Distillation

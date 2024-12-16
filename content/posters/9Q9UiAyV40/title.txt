@@ -1,0 +1,1 @@
+MSPE: Multi-Scale Patch Embedding Prompts Vision Transformers to Any Resolution

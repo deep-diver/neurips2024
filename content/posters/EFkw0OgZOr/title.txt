@@ -1,0 +1,1 @@
+Training an Open-Vocabulary Monocular 3D Detection Model without 3D Data

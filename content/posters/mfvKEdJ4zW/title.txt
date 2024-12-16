@@ -1,0 +1,1 @@
+Latent Functional Maps: a spectral framework for representation alignment

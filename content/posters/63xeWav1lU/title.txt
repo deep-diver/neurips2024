@@ -1,0 +1,1 @@
+Fine-grained Image-to-LiDAR Contrastive Distillation with Visual Foundation Models

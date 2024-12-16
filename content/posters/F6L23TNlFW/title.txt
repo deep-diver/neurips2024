@@ -1,0 +1,1 @@
+Predicting Label Distribution from Ternary Labels

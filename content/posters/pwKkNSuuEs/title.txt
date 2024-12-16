@@ -1,0 +1,1 @@
+Abstracted Shapes as Tokens - A Generalizable and Interpretable Model for Time-series Classification

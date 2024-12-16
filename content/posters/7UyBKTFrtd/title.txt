@@ -1,0 +1,1 @@
+Interpreting CLIP with Sparse Linear Concept Embeddings (SpLiCE)

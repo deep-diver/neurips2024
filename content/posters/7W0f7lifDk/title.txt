@@ -1,0 +1,1 @@
+Human-3Diffusion: Realistic Avatar Creation via Explicit 3D Consistent Diffusion Models

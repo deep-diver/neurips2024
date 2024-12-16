@@ -1,0 +1,1 @@
+SuperVLAD: Compact and Robust Image Descriptors for Visual Place Recognition

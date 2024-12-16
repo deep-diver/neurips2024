@@ -1,0 +1,1 @@
+Understanding the Role of Equivariance in Self-supervised Learning

@@ -1,0 +1,1 @@
+MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution

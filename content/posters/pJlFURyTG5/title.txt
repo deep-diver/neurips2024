@@ -1,0 +1,1 @@
+Scalable Constrained Policy Optimization for Safe Multi-agent Reinforcement Learning

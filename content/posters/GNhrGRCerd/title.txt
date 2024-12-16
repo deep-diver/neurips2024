@@ -1,0 +1,1 @@
+Trap-MID: Trapdoor-based Defense against Model Inversion Attacks

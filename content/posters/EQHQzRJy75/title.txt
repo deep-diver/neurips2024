@@ -1,0 +1,1 @@
+STONE: A Submodular Optimization Framework for Active 3D Object Detection

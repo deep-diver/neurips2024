@@ -1,0 +1,1 @@
+Self-Supervised Alignment with Mutual Information: Learning to Follow Principles without Preference Labels

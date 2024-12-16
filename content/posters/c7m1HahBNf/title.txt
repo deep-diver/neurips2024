@@ -1,0 +1,1 @@
+Exploring Structured Semantic Priors Underlying Diffusion Score for Test-time Adaptation

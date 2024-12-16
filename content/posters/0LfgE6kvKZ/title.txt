@@ -1,0 +1,1 @@
+Local Superior Soups: A Catalyst for Model Merging in Cross-Silo Federated Learning
